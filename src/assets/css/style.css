@@ -1,3 +1,4 @@
+/* header style */
 .header-container{
     padding-left: 30px;
     padding-right: 30px;
@@ -13,4 +14,25 @@
 .search-bar-container{
     padding-left: 30px;
     padding-right: 0px;
+}
+
+/* navbar style */
+.navbar-container{
+    background-color:black;
+    color: white;
+}
+
+/* content style */
+.content-container{
+    height:1000px;
+}
+
+
+
+
+
+
+/* footer style */
+.footer-container{
+    border-top: 3px solid black;
 }
