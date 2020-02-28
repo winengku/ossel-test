@@ -32,7 +32,7 @@
     background: none;
     width: 500px;
     caret-color:black;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 .search_icon{
@@ -60,6 +60,12 @@
 .navbar-container{
     background-color:black;
     color: white;
+    height: 50px;
+    font-weight: bold;
+}
+
+.navbar-nav>.mr-80{
+    margin-right:80px
 }
 
 /* content style */
