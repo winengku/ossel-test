@@ -5,7 +5,10 @@
                 <img src="../assets/images/logo.jpg">
             </div>
             <div class="row col-7 justify-content-end align-items-center mx-0 search-bar-container">
-                search
+                <div class="searchbar">
+                    <input class="search_input" type="text" name="" placeholder="Search...">
+                    <a href="#" class="search_icon"><i class="fas fa-search"></i></a>
+                </div>
             </div>
         </div>
     </div>
