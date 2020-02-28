@@ -66,7 +66,7 @@
             About Us
         </div>
         <div class="row col-12 mx-0 about-us-container justify-content-center">
-            <div class="row col-8 pb-4" style="text-align:center;">
+            <div class="row col-8 pb-5" style="text-align:center;">
                 OSSEL adalah sebuah merk terdaftar untuk mesin dan alat-alat teknik untuk mendukung pekerjaan dan kegiatan produksi. Produk-produk OSSEL telah memenuhi standard kualitas dan sertifikasi International yang mencakup bidang : Pertukangan Dan Perbengkelan, Power Tools/ Mesin Perkakas, General Machinery, Pertanian Dan Perkebunan, Food Machinery Dan Packaging. OSSEL hadir untuk memenuhi kebutuhan masyarakat Indonesia akan mesin dan alat-alat teknik dengan standard kualitas International dan harga yang terjangkau. Semua produk-produk OSSEL bisa didapat di hampir seluruh Toko-Toko Teknik dan online market di Indonesia.
             </div>
         </div>
