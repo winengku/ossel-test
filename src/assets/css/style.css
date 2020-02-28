@@ -70,7 +70,8 @@
 
 /* content style */
 .content-container{
-    height:1000px;
+    height:100%;
+    margin-bottom: 20px;
 }
 
 .product-list-container{
@@ -92,6 +93,26 @@
 .promo-title{
     font-weight: bold;
     font-size: large;
+}
+
+.title-content{
+    font-weight: bold;
+    font-size: 40px;
+    color: orange;
+}
+
+.header-article{
+    font-weight: bold;
+    color: black;    
+    font-size: large;
+}
+
+.title-article{
+    font-weight: bold;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    
 }
 
 
@@ -120,8 +141,8 @@
     right: 0;
   }
   .agile__dots {
-    padding-top:10px;
-    left: 50%;
+    bottom: 0px;
+    left: 10%;
     position: absolute;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
@@ -130,7 +151,7 @@
     margin: 0 10px;
   }
   .agile__dot button {
-    background-color: rgb(197, 194, 194);
+    background-color: white;
     border: 1px solid transparent;
     border-radius: 50%;
     cursor: pointer;
@@ -166,4 +187,29 @@
 /* footer style */
 .footer-container{
     border-top: 3px solid black;
+}
+
+
+
+
+/* helper */
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.object-fit_contain {
+    object-fit: contain ;
+    width: 100%;
 }
