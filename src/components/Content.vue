@@ -1,5 +1,5 @@
 <template>
-    <div class="content-container">
+    <div class="content-container pb-5">
         <div class="row mx-0">
             <div class="col-5 product-list-container">
                 <div class="pt-5">
@@ -59,6 +59,15 @@
                     <img class="object-fit_contain" src="../assets/images/product2.jpg">
                     <p class="py-2 mx-5 title-article">JIGSAW P-431</p>
                 </div>
+            </div>
+        </div>
+
+        <div class="row mx-0 justify-content-center pt-3 pb-5 mt-5  title-content about-us-container">
+            About Us
+        </div>
+        <div class="row col-12 mx-0 about-us-container justify-content-center">
+            <div class="row col-8 pb-4" style="text-align:center;">
+                OSSEL adalah sebuah merk terdaftar untuk mesin dan alat-alat teknik untuk mendukung pekerjaan dan kegiatan produksi. Produk-produk OSSEL telah memenuhi standard kualitas dan sertifikasi International yang mencakup bidang : Pertukangan Dan Perbengkelan, Power Tools/ Mesin Perkakas, General Machinery, Pertanian Dan Perkebunan, Food Machinery Dan Packaging. OSSEL hadir untuk memenuhi kebutuhan masyarakat Indonesia akan mesin dan alat-alat teknik dengan standard kualitas International dan harga yang terjangkau. Semua produk-produk OSSEL bisa didapat di hampir seluruh Toko-Toko Teknik dan online market di Indonesia.
             </div>
         </div>
     </div>

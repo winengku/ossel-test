@@ -120,6 +120,10 @@
     border-radius: 20px;
 }
 
+.about-us-container{
+    background-color: black;
+    color: white;
+}
 
 /* agile slider style */
 .agile__nav-button {
