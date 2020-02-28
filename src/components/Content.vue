@@ -28,7 +28,7 @@
             Our Products
         </div>
         <div class="row col-12 justify-content-center mx-0" >
-            <div class="row col-11 mx-0 justify-content-center px-0" style="border:1px solid black;border-radius:20px;">
+            <div class="row col-11 mx-0 justify-content-center px-0 product-container">
                 <div class="col-12 mx-0 mt-4 py-2 pl-4 header-article">
                     Featured Product
                 </div>

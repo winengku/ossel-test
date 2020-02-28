@@ -110,9 +110,14 @@
 .title-article{
     font-weight: bold;
     color: white;
-    background-color: orange;
+    background-color: black;
     text-align: center;
     
+}
+
+.product-container{
+    border: 4px solid orange;
+    border-radius: 20px;
 }
 
 
